@@ -3,7 +3,7 @@ title: "AIに書かせた安全確認は「正常」と出た。でも八王子�
 emoji: "🚌"
 type: "tech"
 topics: ["claudecode", "gtfs", "opendata", "個人開発", "ai"]
-published: false
+published: true
 ---
 
 東京都内のバス時刻表を集めて経路を出すサービスを個人で運用しています。
